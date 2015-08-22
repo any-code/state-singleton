@@ -1,0 +1,32 @@
+{
+  "name": "state-singleton",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/any-code/state-singleton.git"
+  },
+  "keywords": [
+    "state", "observable", "singleton", "application state"
+  ],
+  "author": "Lee Tagg <lee@anycode.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/any-code/state-singleton/issues"
+  },
+  "homepage": "https://github.com/any-code/state-singleton#readme",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  },
+  "dependencies": {
+    "javascript-object-paraphernalia": "^1.0.1",
+    "javascript-observable": "^1.0.1"
+  }
+}
