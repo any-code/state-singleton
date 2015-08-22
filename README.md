@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/any-code/state-singleton.svg?branch=master)](https://travis-ci.org/any-code/state-singleton)
 
-> application description 
+> Javascript observable state container
 
 ## Getting Started
 
