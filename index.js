@@ -35,6 +35,7 @@ var Observable = require('javascript-observable'),
         };
 
         State.prototype.on = Observable.prototype.subscribe;
+        State.prototype.trigger = Observable.prototype.publish;
 
         return new State();
     })();
